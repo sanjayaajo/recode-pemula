@@ -1,2 +1,4 @@
-# recode-pemula
-Yang ke recode soory untuk pemula
+**Tools udah update**
+**Create: 2018**
+**update: 2019 versi 5.0**
+
